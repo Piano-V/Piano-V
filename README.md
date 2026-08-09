@@ -13,5 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## 🐍 Contribution Snake
-
-![snake gif](https://github.com/ab-air/ab-air/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/Piano-V/Piano-V/raw/output/github-contribution-grid-snake.svg)
