@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **Piano-V/Piano-V** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## 🐍 Contribution Snake
+
+![snake gif](https://github.com/ab-air/ab-air/blob/output/github-contribution-grid-snake.svg)
